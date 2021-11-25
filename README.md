@@ -1,4 +1,8 @@
 ## Olá Mundo! Eu sou o Flavio Kawan ✋🤓
+   <br><br>
+I'm a Technology Student With Much Love and Willingness to Learn
+  
+   
    
 <br><br>
 
