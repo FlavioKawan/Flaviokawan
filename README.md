@@ -25,7 +25,8 @@ I'm a Technology Student With Much Love and Willingness to Learn
    <br>
 
 #git
-   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+   <img align ="right" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+</div>
    
    
    
