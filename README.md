@@ -24,6 +24,6 @@ I'm a Technology Student With Much Love and Willingness to Learn
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  
    <br>
 
-##Gif 
-<img align="right" alt="Flavin-mordecai" height="150" style="border-radius:50px;"  src="https://tenor.com/view/mordecai-swagging-elector-dance-gif-14403414">/>
+##Gif
+   <img align="right" alt="Flavin-mordecai" height="150" style="border-radius:50px;"  src="https://tenor.com/view/mordecai-swagging-elector-dance-gif-14403414" />
 </div> 
