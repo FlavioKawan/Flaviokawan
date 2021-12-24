@@ -1,7 +1,15 @@
-## Olá Mundo! Eu sou o Flavio Kawan ✋🤓
+## Hello World!!, I'm Flávio Kawan ✋🤓
    <br><br>
+   
 I'm a Technology Student With Much Love and Willingness to Learn
-  
+ 
+ 
+ ► Currently Studying Full Stack/ information security / Ethical Hacker 🧠
+ ► I have no experience in the Technology Market 😓
+ ► I'm in the Learning Process. In Search of Knowledge and Evolution 💪
+ 
+ 
+ 
    
    
 <br><br>
