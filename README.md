@@ -5,7 +5,9 @@ I'm a Technology Student With Much Love and Willingness to Learn
  
  
  ► Currently Studying Full Stack/ information security / Ethical Hacker 🧠
+ <br>
  ► I have no experience in the Technology Market 😓
+ <br>
  ► I'm in the Learning Process. In Search of Knowledge and Evolution 💪
  
  
