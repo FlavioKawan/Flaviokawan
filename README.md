@@ -25,5 +25,7 @@ I'm a Technology Student With Much Love and Willingness to Learn
    <br>
 
 ##Gif
+   ![mordecai-swagging](https://user-images.githubusercontent.com/53318217/147365192-3960009f-5ac4-4e7f-bd86-0d360dcc8065.gif)
+
   
 </div
