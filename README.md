@@ -24,10 +24,10 @@ I'm a Technology Student With Much Love and Willingness to Learn
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  
    <br>
 
-#gi
-   img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-
-
+#git
+   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+   
+   
    
 
   
