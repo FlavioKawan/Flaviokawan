@@ -26,6 +26,7 @@ I'm a Technology Student With Much Love and Willingness to Learn
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/mordecai-swagging-elector-dance-gif-14403414.gif">
 </div>
    
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
    
    
