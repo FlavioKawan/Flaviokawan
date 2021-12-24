@@ -25,5 +25,6 @@ I'm a Technology Student With Much Love and Willingness to Learn
    <br>
 
 ##Gif
-   <img align="right" alt="Flavin-mordecai" height="150" style="border-radius:50px;"  src="https://tenor.com/view/mordecai-swagging-elector-dance-gif-14403414" />
-</div> 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
