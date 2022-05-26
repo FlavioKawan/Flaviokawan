@@ -1,7 +1,7 @@
 ## Hello World!!, I'm Flávio Kawan ✋🤓
    <br><br>
    
-I'm a Technology Student With Much Love and Willingness to Learn
+I'm a Technology Student With Much Love and Desire to Learn
  
  <b>
  ► Currently Studying Full Stack/ information security / Ethical Hacker 🧠
