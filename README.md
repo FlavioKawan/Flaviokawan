@@ -4,7 +4,8 @@
 I'm a Technology Student With Much Love and Desire to Learn
  
  <b>
- ► Currently Studying Full Stack/ information security / Ethical Hacker 🧠
+ ► / CyberSecurity Red Team Attack ![image](https://user-images.githubusercontent.com/53318217/170475607-de48f26a-bd7f-4a5b-95f0-032011d97ffc.png)
+ / Ethical Hacker 🧠
  <br>
  ► I have no experience in the Technology Market 😓
  <br>
