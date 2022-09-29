@@ -17,7 +17,7 @@ I'm a Technology Student With Much Love and Desire to Learn
 <br><br>
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://mail.google.com/mail/u/kawanflavio66@gmail.com)
+)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrbHCbpjbfBvNxRvcrtdQgdflfLncQGwvGgPjQRlHDBCqqpXFSdmXCpSBCnzjhzxKmXvX)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/fl%C3%A1vio-kawan-6013a119b/)
 
