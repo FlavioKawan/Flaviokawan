@@ -33,7 +33,7 @@ I'm a Technology Student With Much Love and Desire to Learn
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  
    <br>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/mordecai-swagging-elector-dance-gif-14403414.gif">
+
 </div>
    
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
