@@ -1,10 +1,10 @@
 ## Hello World!!, I'm Flávio Kawan ✋🤓
    <br><br>
    
-I'm a Technology Student With Much Love and Desire to Learn
+I'm a Technology Student I'm looking for my first opportunity in the IT market
  
  <b>
- ► / CyberSecurity Red Team Attack / Ethical Hacker 🧠
+ ► Intern / CyberSecurity Red Team Attack / Ethical Hacker 🧠
  <br>
  ► I have no experience in the Technology Market 😓
  <br>
