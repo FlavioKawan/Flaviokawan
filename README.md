@@ -19,6 +19,7 @@
 <a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href="https://www.linkedin.com/in/fl%C3%A1vio-kawan-6013a119b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrbHCbpjbfBvNxRvcrtdQgdflfLncQGwvGgPjQRlHDBCqqpXFSdmXCpSBCnzjhzxKmXvX/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="https://medium.com/@flavioredteam/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"</a>
 </div>
   
 
